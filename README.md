@@ -1,6 +1,8 @@
 #  Mean and variance of a discrete  distribution
 # NAME : SAI DESHIYA . K 
 # REG NO : 212224220084
+# DATE : 
+
 
 # Aim : 
 
